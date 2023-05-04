@@ -1,0 +1,17 @@
+.anima{
+    animation: MudarParaPreto 2s ease-in-out;
+}
+
+@keyframes mudarParaPreto {
+    0%{
+        background-color: white;
+    }
+
+    50%{
+        background-color: rgb(167, 166, 166);
+    }
+    
+    100%{
+        background-color: rgb(57, 57, 57);
+    }
+}
