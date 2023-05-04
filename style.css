@@ -1,0 +1,11 @@
+:root{
+    --background-dark: rgb(57, 57, 57);
+    --background-light: white;
+}
+.body-dark{
+    background-color: var(--background-dark);
+    
+}
+.body-light{
+    background-color: var(--background-light);
+}
